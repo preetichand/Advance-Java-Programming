@@ -1,0 +1,2 @@
+PS D:\Advance-Java-Programming>  & 'c:\Users\Preeti Chand\.vscode\extensions\vscjava.vscode-java-debug-0.30.0\scripts\launcher.bat' 'C:\Program Files\AdoptOpenJDK\jdk-11.0.9.11-hotspot\bin\java.exe' '-Dfile.encoding=UTF-8' '-cp' 'C:\Users\Preeti Chand\AppData\Roaming\Code\User\workspaceStorage\1fddf846ca4ae97be0a9244e41334c5c\redhat.java\jdt_ws\Advance-Java-Programming_2af2a732\bin' 'Practical1.Server'
+Message from the client=Hello Server,This is Preeti Chand !
