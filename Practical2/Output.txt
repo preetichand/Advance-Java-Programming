@@ -1,0 +1,28 @@
+Server.java output
+
+D:\Advance-Java-Programming> "c:\Users\Preeti Chand\.vscode\extensions\vscjava.vscode-java-debug-0.30.0\scripts\launcher.bat" "C:\Program 
+Files\AdoptOpenJDK\jdk-11.0.9.11-hotspot\bin\java.exe" -Dfile.encoding=UTF-8 -cp "C:\Users\Preeti Chand\AppData\Roaming\Code\User\workspaceStorage\0e129160a72b3cc011210353963ecab2\redhat.java\jdt_ws\Advance-Java-Programming_2af2a732\bin" Practical2.Server
+Connection is stable
+Client says :Hello
+Hi,How are you?
+Client says :I am good ,It's a beautiful day !
+Oh,Yes it is.So what are your plans for today?
+Client says :Nothing much,will relax.How about you?
+Oh that's good .I will do some gardening.
+Client says :Sounds good!Okay then will catch up soon.
+bye
+
+
+
+Client.java output
+D:\Advance-Java-Programming> "c:\Users\Preeti Chand\.vscode\extensions\vscjava.vscode-java-debug-0.30.0\scripts\launcher.bat" "C:\Program 
+Files\AdoptOpenJDK\jdk-11.0.9.11-hotspot\bin\java.exe" -Dfile.encoding=UTF-8 -cp "C:\Users\Preeti Chand\AppData\Roaming\Code\User\workspaceStorage\0e129160a72b3cc011210353963ecab2\redhat.java\jdt_ws\Advance-Java-Programming_2af2a732\bin" Practical2.Client
+Hello
+Server Says :Hi,How are you?
+I am good ,It's a beautiful day !
+Server Says :Oh,Yes it is.So what are your plans for today?
+Nothing much,will relax.How about you?
+Server Says :Oh that's good .I will do some gardening.
+Sounds good!Okay then will catch up soon.
+Server Says :bye
+bye

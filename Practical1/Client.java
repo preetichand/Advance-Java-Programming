@@ -14,7 +14,7 @@ public class Client {
             dout.flush();
             dout.close();
             s.close();
-
+            
 
         }catch(Exception e){
             System.out.println(e);
