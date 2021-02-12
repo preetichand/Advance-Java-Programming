@@ -1,4 +1,4 @@
-package Practical2;
+package Practical3;
 import java.io.*;
 import java.net.*;
 
